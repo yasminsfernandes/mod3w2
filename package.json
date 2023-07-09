@@ -1,0 +1,17 @@
+{
+  "name": "aula-de-domingo",
+  "version": "1.0.0",
+  "description": "aula m3w2 javascript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "author": "YSF",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
